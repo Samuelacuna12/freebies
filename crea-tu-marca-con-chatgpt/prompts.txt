@@ -1,0 +1,148 @@
+CREA TU MARCA COMPLETA CON CHATGPT
+PROMPTS DE TRABAJO
+Reemplaza los campos entre corchetes con datos reales. LUMA CASA es un caso ficticio: sustituye ese nombre y sus datos por los de tu proyecto. No ejecutes toda la guía en un solo mensaje.
+
+01. Define tu marca mínima viable (página 4)
+=================================================================
+Actúa como facilitador de estrategia de marca. Voy a compartir mi oferta, estado actual y recursos disponibles. Distingue hechos confirmados, hipótesis y decisiones pendientes. Propón una marca mínima viable con seis entregables concretos y una prueba de utilidad para cada uno. Prioriza lo que debo resolver antes del logotipo. No inventes demanda, testimonios, ventajas del producto ni resultados comerciales. Si falta información decisiva, formula preguntas específicas antes de completar el documento.
+
+02. Crea una carpeta que conserve el contexto (página 5)
+=================================================================
+Voy a proporcionarte un inventario de documentos de marca. Clasifícalos por función, señala duplicados y detecta contradicciones entre versiones. Propón un índice de trabajo y una lista de información faltante. Para cada recomendación, cita el identificador del documento que la sustenta. No atribuyas contenido a archivos que no he compartido. Devuelve una tabla con documento, utilidad, calidad de evidencia y siguiente acción.
+
+03. Investiga situaciones reales de compra (página 6)
+=================================================================
+Analiza estas notas de investigación, identificadas por fuente. Extrae situaciones de uso, soluciones actuales, obstáculos y criterios de elección. Conserva las expresiones originales relevantes. Separa observaciones, interpretaciones e hipótesis de compra. Señala contradicciones y preguntas que conviene hacer después. No completes edad, ingresos, ubicación, preferencias o presupuesto si no aparecen en las notas. Presenta cada hallazgo con su evidencia y su límite.
+
+04. Construye un buyer persona con evidencia (página 7)
+=================================================================
+Construye perfiles operativos a partir de las notas adjuntas. Agrupa por situación y criterios de decisión, no por estereotipos demográficos. Para cada perfil indica evidencia disponible, restricciones, preguntas frecuentes, lenguaje y supuestos pendientes. No añadas datos personales ni presupuesto inventado. Explica qué decisiones de comunicación permitiría tomar cada perfil. Si dos perfiles no cambiarían ninguna decisión, propón cómo simplificarlos.
+
+05. Redacta un brief que permita decidir (página 8)
+=================================================================
+Convierte esta información en un brief de una página. Mantén separados hechos, decisiones e hipótesis. Detecta contradicciones entre público, oferta, mensaje y aplicaciones. Propón criterios verificables para evaluar propuestas y explica qué información falta antes de avanzar. No rellenes los vacíos con afirmaciones plausibles. Termina con las cinco preguntas que más podrían cambiar la dirección del proyecto y una versión provisional del brief claramente identificada.
+
+06. Define un posicionamiento provisional (página 9)
+=================================================================
+Con este brief y esta evidencia, propón tres posicionamientos provisionales. Para cada uno incluye situación prioritaria, alternativa relevante, beneficio central, respaldo necesario y riesgo de exageración. Evita superioridad, exclusividad y resultados no demostrados. Explica qué decisiones cambiarían en fotografía, textos y presentación del producto. Recomienda una dirección por su coherencia con la información, no por sonar más impresionante.
+
+07. Construye una jerarquía de mensajes (página 10)
+=================================================================
+Crea una jerarquía de mensajes con el brief y los datos de producto que adjunto. Separa presentación, beneficio, respaldo y acción. Redacta versiones para una ficha, una publicación breve y una etiqueta. Junto a cada afirmación señala qué dato la sostiene; si falta, márcala como pendiente. Conserva el mismo sentido en los tres soportes y evita urgencia, testimonios o ventajas inventadas.
+
+08. Define el tono con ejemplos y límites (página 11)
+=================================================================
+A partir del brief, crea una guía de voz con cuatro cualidades observables. Para cada una incluye regla, ejemplo adecuado, ejemplo que debamos evitar y explicación del cambio. Reescribe una presentación, una respuesta a una duda y una aclaración de limitaciones. Mantén las condiciones y los hechos originales. No añadas beneficios para que el texto resulte más persuasivo. Señala cualquier frase que dependa de información aún no confirmada.
+
+09. Somete el nombre a un preflight (página 12)
+=================================================================
+Evalúa estos nombres únicamente por claridad de uso y coherencia con el brief. Identifica dificultades potenciales de pronunciación, escritura, asociaciones y aplicaciones. Distingue observaciones basadas en las pruebas que adjunto de hipótesis tuyas. No declares que un nombre está disponible, es exclusivo o puede registrarse. Propón preguntas para comparar alternativas y una tabla para documentar resultados, sin inventar participantes ni respuestas.
+
+10. Investiga en Pinterest y Behance sin copiar (página 13)
+=================================================================
+Analiza estas referencias identificadas como R01, R02 y siguientes. Describe soluciones observables de jerarquía, composición, tipografía, color, fotografía y aplicación. Para cada una explica qué problema resuelve y qué principio podríamos explorar de forma original. No propongas copiar nombres, símbolos o combinaciones distintivas. Si una imagen no permite evaluar una propiedad, indícalo y pide una vista adicional.
+
+11. Selecciona las referencias que sí aportan (página 14)
+=================================================================
+Ayúdame a seleccionar cinco referencias de esta colección comentada. Asigna un papel distinto a cada una y justifica su relación con el brief. Señala redundancias, huecos y recursos que dependan demasiado de una marca reconocible. Devuelve una tabla con identificador, función, principio aprovechable, elemento que no debemos copiar y prueba de aplicación. No inventes detalles de imágenes que no te he mostrado.
+
+12. Extrae principios, no piezas para mezclar (página 15)
+=================================================================
+Transforma estas cinco referencias y sus anotaciones en un conjunto de principios de diseño. Organiza la respuesta por jerarquía, tipografía, color, fotografía y composición. Para cada principio indica su función, la referencia que lo inspira y una forma de comprobarlo en nuestros soportes. Detecta contradicciones y resuélvelas con el brief. No generes un collage de piezas copiadas ni atribuyas nombres de fuentes sin evidencia.
+
+13. Cierra el moodboard y el brief visual (página 16)
+=================================================================
+Usa el brief estratégico, el perfil provisional y las referencias R01 a R05 adjuntas. Redacta un brief visual para mi marca [NOMBRE]. Organiza la respuesta en idea central, jerarquía, relación tipográfica, funciones del color, tratamiento de imagen y aplicaciones de prueba. No propongas rutas ni generes logotipos todavía: esa exploración corresponde al siguiente paso. Detecta contradicciones entre las referencias y resuélvelas con el brief. No copies símbolos o composiciones reconocibles ni inventes atributos del producto. Termina con criterios de comparación y dudas que requieren una decisión humana.
+
+14. Prompt maestro · primera dirección (página 17)
+=================================================================
+Actúa como diseñador de identidad visual. Mi marca de ejemplo es LUMA CASA: organizadores para personas que viven en espacios pequeños y quieren ordenar sin remodelar. Buscamos transmitir claridad, aprovechamiento del espacio y cercanía. Adjunto un brief y cinco referencias comentadas. Estudia sus principios de diseño; no copies símbolos, composiciones distintivas ni letras de otras marcas. Primero resume el encargo e identifica información faltante. Después plantea tres direcciones claramente diferentes: editorial, orgánica y geométrica. Para cada una, explica concepto, construcción del símbolo, tratamiento del nombre, paleta de trabajo y aplicaciones previstas. Evita afirmar que una propuesta es exclusiva, registrable o un archivo vectorial. Presenta las decisiones antes de generar imágenes. No inventes opiniones de clientes, estudios de mercado ni verificaciones de disponibilidad.
+
+15. Obliga a explicar la diferencia (página 18)
+=================================================================
+Compara las tres direcciones de LUMA CASA. Señala cinco decisiones distintas entre ellas: tipo de letra, construcción del símbolo, proporción, espacio y tono. Explica qué gana y qué arriesga cada opción. Si dos caminos se parecen demasiado, redefine uno desde su estructura, no sólo desde su paleta.
+
+16. Ejemplo · dirección geométrica (página 19)
+=================================================================
+Desarrolla una propuesta visual de LUMA CASA siguiendo la dirección geométrica definida. El símbolo explorará dos módulos simples que sugieren aprovechar el espacio, sin usar una casa con techo como solución automática. Presenta el nombre exacto LUMA CASA y una combinación horizontal de símbolo y nombre. Usa fondo plano y una versión monocromática adicional. No incluyas fotografía, relieve, metal, sombras dramáticas ni empaques en esta ronda. Mantén un grosor que permita evaluar tamaños pequeños. Si el resultado es una imagen rasterizada, descríbelo como tal; no afirmes haber entregado un vector editable.
+
+17. Pide una crítica utilizable (página 20)
+=================================================================
+Evalúa estas propuestas de LUMA CASA con la rúbrica indicada. Para cada nota, cita un rasgo visible y una mejora posible. No inventes resultados de investigación ni certifiques exclusividad. Separa observación, interpretación y preferencia. Indica qué aspecto no puedes juzgar con las imágenes disponibles.
+
+18. Una instrucción de refinamiento (página 21)
+=================================================================
+Parte de GEOMETRICA_01 de LUMA CASA. Conserva la construcción del símbolo, el tratamiento del nombre y la composición horizontal. Cambia solamente el contenedor exterior: prepara una alternativa sin marco y otra con un marco más discreto. Usa exactamente los mismos colores, dimensiones de presentación y fondo. Explica qué debería mejorar y qué debo observar. Si no puedes preservar con precisión el resto de los elementos, adviértelo y entrega instrucciones de corrección para reconstrucción manual.
+
+19. Una revisión tipográfica específica (página 22)
+=================================================================
+Analiza este wordmark de LUMA CASA. Describe errores visibles de escritura, ritmo, peso o separación. Propón correcciones concretas por pares de letras. No inventes el nombre de la tipografía a partir de la imagen: si no puedes identificarla con certeza, describe sus rasgos. Diferencia una decisión estilística de un fallo de legibilidad. No presentes una regeneración aproximada como una corrección exacta.
+
+20. Pide relaciones, no decoraciones (página 23)
+=================================================================
+Compara tres relaciones de tamaño entre este símbolo y el wordmark de LUMA CASA. Conserva sus formas. Explica cuál favorece la lectura del nombre y cuál sirve mejor en un espacio compacto. No añadas líneas, coronas, hojas ni una casa como decoración automática. Señala si alguna combinación necesita reconstrucción manual.
+
+21. Informe de reducción (página 24)
+=================================================================
+Revisa estas muestras a los tamaños indicados. Identifica qué elemento pierde legibilidad primero y propone una corrección estructural. No uses sombras, brillo ni más resolución como solución automática. Distingue el tamaño mínimo del wordmark del tamaño mínimo del símbolo.
+
+22. Revisión del sistema cromático (página 25)
+=================================================================
+Evalúa esta paleta de LUMA CASA en las aplicaciones adjuntas. Asigna una función a cada color, detecta combinaciones difíciles de leer y propone la mínima corrección necesaria. No atribuyas significados universales ni afirmes que una paleta convierte más sin evidencia. Mantén el logo reconocible también sin color.
+
+23. Pide un sistema reducido (página 26)
+=================================================================
+Propón un sistema tipográfico para LUMA CASA basado en estas muestras disponibles. Define funciones para títulos, cuerpo y datos. Justifica cada elección con legibilidad y coherencia. No inventes que una fuente está instalada, que es gratuita o que permite cualquier uso. Si desconoces su nombre, describe sus rasgos y deja pendiente la identificación.
+
+24. Un mapa de aplicaciones (página 27)
+=================================================================
+Con estas piezas maestras de LUMA CASA, especifica tres composiciones coherentes para avatar, etiqueta y encabezado. Conserva formas y proporciones del símbolo y del nombre. Explica qué se reorganiza y qué no debe cambiar. Si no puedes mantener los elementos idénticos mediante generación, entrega un esquema de montaje para edición manual.
+
+25. Una simulación con límites claros (página 28)
+=================================================================
+Crea una visualización de aplicación de LUMA CASA usando el logo adjunto como referencia de colocación. Mantén el nombre exacto y evita añadir sellos, certificaciones o promesas. Indica que es una simulación conceptual. Después enumera qué aspectos de fabricación, escala o fidelidad del logo deben comprobarse con un archivo maestro y una muestra real.
+
+26. Prompt completo · Ficha sin datos inventados (página 31)
+=================================================================
+Actúa como editor de ecommerce para LUMA CASA, marca ficticia de organizadores para hogares pequeños. Usa exclusivamente la ficha técnica que pegaré al final. Redacta nombre, descripción de hasta 45 palabras, cinco datos de decisión y tres preguntas frecuentes. Separa hechos de sugerencias de uso. Marca [PENDIENTE] donde falte información. Evita promesas de ahorro de espacio cuantificado, beneficios médicos, superlativos y materiales no confirmados. Entrega también la lista de fotografías que necesitamos para sostener cada explicación. Ficha técnica: [PEGAR DATOS VERIFICADOS].
+
+27. Prompt completo · Serie editorial (página 32)
+=================================================================
+Diseña el contenido de seis publicaciones para LUMA CASA, marca ficticia de organizadores para hogares pequeños. Distribuye dos piezas de producto, dos de contexto y dos educativas. Para cada una entrega objetivo, titular de máximo ocho palabras, copy de hasta 70 palabras, fotografía necesaria y estructura visual. Usa un tono claro, cercano y tranquilo. No inventes opiniones de clientes, descuentos, disponibilidad ni beneficios medidos. Incluye una alternativa de texto descriptivo para la imagen y señala cualquier dato que debamos confirmar. Base factual: [PEGAR INFORMACIÓN REAL DEL PRODUCTO].
+
+28. Prompt completo · Brief para producción (página 33)
+=================================================================
+Prepara un brief de etiqueta y tarjeta para LUMA CASA, marca ficticia de organizadores para hogares pequeños. Trabaja con el plano y los datos que adjuntaré. Entrega arquitectura de información por cara, texto propuesto, preguntas para el proveedor y lista de verificaciones de una muestra física. Señala [POR CONFIRMAR] cuando falten dimensiones, material, cuidados o requisitos aplicables. No inventes códigos de barras, certificaciones, sellos ambientales ni instrucciones de seguridad. Diferencia claramente propuesta visual y especificación aprobada. Datos y plano: [ADJUNTAR].
+
+29. Prompt completo · Editor de voz (página 34)
+=================================================================
+Actúa como editor de LUMA CASA, marca ficticia de organizadores para hogares pequeños. Nuestra voz es clara, cercana y tranquila; no juzga el desorden ni usa urgencia artificial. Revisa el texto que pegaré. Devuelve una versión breve y una versión explicativa, conservando solamente hechos respaldados por la ficha técnica. Después crea una tabla: afirmación original, evidencia disponible, riesgo de confusión y cambio aplicado. Marca dudas; no las resuelvas inventando datos. Evita testimonios ficticios, escasez, descuentos y promesas de rendimiento sin prueba. Texto: [PEGAR]. Hechos confirmados: [PEGAR].
+
+30. Prompt completo · Brandbook operativo (página 35)
+=================================================================
+Organiza un mini brandbook de LUMA CASA usando las decisiones aprobadas que pegaré. Propón un índice de ocho secciones y redacta instrucciones aplicables, con ejemplos correctos e incorrectos. No inventes colores, archivos, fuentes, tamaños mínimos ni versiones de logo. Marca cualquier dato ausente como [PENDIENTE DE PRUEBA]. Distingue reglas obligatorias de opciones recomendadas. Incluye al final un registro de cambios y una lista de archivos necesarios para ejecutar tres aplicaciones: ecommerce, redes y etiqueta. Decisiones aprobadas: [PEGAR].
+
+31. Prompt completo · Síntesis sin exagerar (página 36)
+=================================================================
+Analiza estas notas de cinco sesiones cualitativas de LUMA CASA. Entrega una tabla con observación, evidencia textual o conducta, interpretación posible y ajuste verificable. Distingue problemas de comprensión, información y preferencia visual. No calcules conclusiones representativas ni afirmes causalidad, conversión o intención de compra a partir de comentarios. Señala sesgos de reclutamiento y preguntas dirigidas. Prioriza tres ajustes y diseña una tarea para comprobar cada uno. Notas anónimas: [PEGAR SIN DATOS PERSONALES].
+
+32. Prompt completo · Plan con dependencias (página 37)
+=================================================================
+Convierte este alcance de LUMA CASA en un plan de siete jornadas de trabajo. Para cada día entrega tareas, insumos necesarios, entregable revisable, responsable, criterio de aceptación y dependencia con el día anterior. No prometas una marca lista para vender por cumplir fechas. Distingue exploración, validación de datos y producción. Incluye un punto de retorno si el nombre no puede usarse o las pruebas revelan confusión. Recursos disponibles: [PEGAR]. Tiempo diario real: [PEGAR]. Alcance: [PEGAR].
+
+33. Prompt completo · Crítica accionable (página 38)
+=================================================================
+Revisa esta aplicación de LUMA CASA contra el brief y las reglas aprobadas. Describe únicamente problemas observables de jerarquía, legibilidad, coherencia, fotografía y precisión del copy. Para cada problema señala evidencia, impacto probable en la comprensión y una corrección específica. No sustituyas toda la dirección visual ni inventes preferencias del público. Prioriza tres cambios; explica qué conservar. Propón una comparación antes/después con el mismo contenido y tamaño. Material: [ADJUNTAR]. Brief: [PEGAR]. Reglas: [PEGAR].
+
+34. Prompt completo · Paquete de entrega (página 39)
+=================================================================
+Actúa como coordinador de entrega de LUMA CASA. A partir del inventario que pegaré, prepara un índice del paquete, una tabla de archivos con uso previsto y versión, una lista de pendientes y un correo breve para el diseñador. No afirmes que un archivo es editable, vectorial o apto para imprenta sin evidencia. Marca archivos ausentes y decisiones provisionales. Incluye una sesión de apertura y criterios de recepción. Inventario y aprobaciones: [PEGAR].
+
+35. Prompt completo · Auditoría de cierre (página 40)
+=================================================================
+Audita el proyecto LUMA CASA con el brief, el brandbook y las aplicaciones que adjuntaré. Clasifica cada pieza como aprobada, en corrección o provisional usando criterios explícitos. Para cada decisión cita la evidencia disponible, identifica el dato faltante y propone una siguiente acción con responsable sugerido. No afirmes disponibilidad del nombre, cumplimiento normativo, resultados comerciales ni preparación para impresión sin verificación correspondiente. Cierra con tres prioridades para la siguiente iteración. Material: [ADJUNTAR]. Criterios aprobados: [PEGAR].
+
+36. Cierre del proyecto en ChatGPT (página 50)
+=================================================================
+Revisa el brief y las decisiones aprobadas de mi marca [NOMBRE]. No vuelvas a diseñar. Prepara una lista de entrega con: archivo, propósito, formato, versión y prueba pendiente. Señala incoherencias concretas entre el brief y el sistema elegido. No declares aprobado algo que no hayamos comprobado. Separa lo listo para usar de lo que necesita intervención técnica o validación.
+
