@@ -15,3 +15,10 @@ Una guía práctica de **50 páginas**, con **36 prompts** y **ocho hojas de tra
 Descarga el PDF antes de rellenarlo y guarda tu propia copia. Los campos editables dependen del lector de PDF que uses; las mismas preguntas también están en las plantillas de texto.
 
 Versión 1.0 · 25 de noviembre de 2026.
+
+## Estructura tus redes sociales
+
+Guía del **Día 11**: **48 páginas**, **16 prompts** y **ocho hojas rellenables** para organizar usuario, biografía, destacadas y publicaciones.
+
+- [Descargar el PDF completo](https://raw.githubusercontent.com/Samuelacuna12/freebies/main/estructura-tus-redes-sociales/guia.pdf)
+- [Ver la guía](estructura-tus-redes-sociales/)
